@@ -1,8 +1,6 @@
 # Hands-on Perception Project
 ## Deblurring Frames using Event Cameras
 
-**This project belongs to the Universitat de Girona. It is forbidden to publish this project or any derivative work in any public repository.**
-
 ## Members of the group:
 
 This project has been carried out by:
